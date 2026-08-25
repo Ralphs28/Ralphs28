@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ralph 👋</h1>
-<h3 align="center">📊 Data Technician | Turning raw data into decisions</h3>
+<h3 align="center">📊 Data Technician | Turning raw data into insights and decisions</h3>
 
 <p align="center">
   I'm a data-focused technician who loves digging into messy spreadsheets and datasets, cleaning them up, and turning them into clear, actionable insights. Trained through a Data Technician bootcamp, Online Courses and In-House training and workshops. I offer hands-on experience in Excel, SQL, and BI tools.
