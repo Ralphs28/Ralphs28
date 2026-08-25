@@ -77,6 +77,7 @@ Part of a data-cleaning workflow that handled missing/inconsistent gender values
 
 <!-- 📍 SCREENSHOT GOES HERE: Python bar chart from messy data cleaning -->
 <img width="841" height="547" alt="python-messy-data-cleaning" src="https://github.com/user-attachments/assets/b14feefc-8d05-4390-847b-044ee85f51b3" />
+
 ![Python bar chart of average marks by gender](./images/python-messy-data-cleaning.png)
 
 
@@ -111,7 +112,7 @@ An interactive Tableau dashboard exploring average/max danceability and liveline
   <!-- 📍 Add your LinkedIn URL here, e.g.: -->
   <!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
   <!-- 📍 Add your Tableau Public profile URL here, e.g.: -->
-  <!-- <a href="TABLEAU_PUBLIC_PROFILE_URL"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a> -->
+<a href="https://public.tableau.com/app/profile/ralph.sanyaolu/viz/TableauDay1GBEmploymentAssign/Dashboard1"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a> 
   <!-- 📍 Add your Power BI portfolio/profile URL here, e.g.: -->
   <!-- <a href="POWER_BI_PROFILE_URL"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a> -->
 </p>
