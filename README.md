@@ -68,17 +68,17 @@ Investigated historical Caterpillar (CAT) stock price data to explore trends, vo
 Built with `pandas` and `seaborn` to explore relationships between IMF, World Bank, and UN GDP estimates.
 
 <!-- 📍 SCREENSHOT GOES HERE: Python correlation heatmap -->
-<img width="930" height="812" alt="python-correlation-heatmap" src="https://github.com/user-attachments/assets/d33517eb-f7b7-4cfe-8c74-d41171e32265" />
+<!--img width="930" height="812" alt="python-correlation-heatmap" src="https://github.com/user-attachments/assets/d33517eb-f7b7-4cfe-8c74-d41171e32265" -->
 
-![Python correlation heatmap of GDP estimates](./images/python-correlation-heatmap.png)
+[![Python correlation heatmap of GDP estimates](https://github.com/user-attachments/assets/d33517eb-f7b7-4cfe-8c74-d41171e32265)](https://github.com/user-attachments/assets/d33517eb-f7b7-4cfe-8c74-d41171e32265)
 
 **🐍 Python — Messy Data Cleaning (Average Marks by Gender)**
 Part of a data-cleaning workflow that handled missing/inconsistent gender values before visualising with `matplotlib`.
 
 <!-- 📍 SCREENSHOT GOES HERE: Python bar chart from messy data cleaning -->
-<img width="841" height="547" alt="python-messy-data-cleaning" src="https://github.com/user-attachments/assets/b14feefc-8d05-4390-847b-044ee85f51b3" />
+<!--img width="841" height="547" alt="python-messy-data-cleaning" src="https://github.com/user-attachments/assets/b14feefc-8d05-4390-847b-044ee85f51b3" -->
 
-![Python bar chart of average marks by gender](./images/python-messy-data-cleaning.png)
+[![Python bar chart of average marks by gender](https://github.com/user-attachments/assets/b14feefc-8d05-4390-847b-044ee85f51b3)](https://github.com/user-attachments/assets/b14feefc-8d05-4390-847b-044ee85f51b3)
 
 
 
@@ -86,9 +86,9 @@ Part of a data-cleaning workflow that handled missing/inconsistent gender values
 An interactive Tableau dashboard exploring average/max danceability and liveliness by genre across the Spotify dataset, including a live-show potential bubble chart.
 
 <!-- 📍 SCREENSHOT GOES HERE: Tableau Danceability & Liveliness dashboard -->
-<img width="1917" height="996" alt="tableau-danceability-liveliness-dashboard" src="https://github.com/user-attachments/assets/c18dd522-66bc-4fb4-bc44-e8d957922ece" />
+<!--img width="1917" height="996" alt="tableau-danceability-liveliness-dashboard" src="https://github.com/user-attachments/assets/c18dd522-66bc-4fb4-bc44-e8d957922ece" -->
 
-![Tableau dashboard showing danceability and liveliness by genre](./images/tableau-danceability-liveliness-dashboard.png)
+[![Tableau dashboard showing danceability and liveliness by genre](https://github.com/user-attachments/assets/c18dd522-66bc-4fb4-bc44-e8d957922ece)](https://github.com/user-attachments/assets/c18dd522-66bc-4fb4-bc44-e8d957922ece)
 
 ---
 
@@ -96,6 +96,7 @@ An interactive Tableau dashboard exploring average/max danceability and liveline
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ralphs28&show_icons=true&theme=default&count_private=true" alt="Ralphs28's GitHub stats" height="165"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ralphs28&theme=default" alt="Ralphs28's GitHub streak" height="165"/>
 </p>
 
